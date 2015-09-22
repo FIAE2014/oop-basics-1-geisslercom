@@ -5,5 +5,6 @@
 
 
 public class ExampleClass{
-
+	public Int sampleInt = 1;
+	private String sampleString = "LOL";
 }
